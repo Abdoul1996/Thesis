@@ -1,0 +1,6 @@
+# ignore the raw data folder
+Data/
+
+# ignore any CSV manifests (lower- and upper-case)
+*.csv
+*.CSV
