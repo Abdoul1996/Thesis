@@ -1,0 +1,12 @@
+ERROR: Unable to locate a modulefile for 'anaconda'
+Sending to NCBI BLAST...
+🎯 Starting BLAST for gene: FAHFDEJI_02221
+
+🎯 Final Result
+Gene ID:        FAHFDEJI_02221
+Gene Name:      coli
+Description:    Escherichia coli strain A31648 chromosome, complete genome
+e-value:        0.0
+bitscore:       1045.44
+identity:       579/579 (100.0%)
+✅ BLAST complete. Parsing results...

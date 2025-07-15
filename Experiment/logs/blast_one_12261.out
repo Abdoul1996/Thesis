@@ -1,0 +1,7 @@
+ERROR: Unable to locate a modulefile for 'anaconda'
+Sending to NCBI BLAST...
+
+Top hit for FAHFDEJI_02221:
+  ➤ Escherichia coli NR1441 DNA, complete genome
+  ➤ e-value: 0.0, bitscore: 1045.44
+  ➤ identity: 579/579 (100.0%)
